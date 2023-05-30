@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/gitAvi3/gitAvi3/blob/main/Artifacts/GitHub%20Cover.gif)
+![Logo](https://github.com/gitAvi3/gitAvi3/blob/main/Artifacts/GitHubCover.gif)
 <h1 align="center">Hi 👋, I'm Avijit sarkar</h1>
 <h3 align="center">Enthusiastic 🤩 || Young Coder 🧩 || vocals & Guitar 🎶</h3>
 
